@@ -3,7 +3,6 @@ module github.com/cyware/ssi-sdk/sd-jwt
 go 1.21
 
 require (
-	github.com/cyware/ssi-sdk v0.0.4-alpha
 	github.com/goccy/go-json v0.10.2
 	github.com/lestrrat-go/jwx/v2 v2.0.11
 	github.com/pkg/errors v0.9.1
@@ -13,6 +12,7 @@ require (
 require (
 	github.com/btcsuite/btcd/btcec/v2 v2.3.2 // indirect
 	github.com/cloudflare/circl v1.3.3 // indirect
+	github.com/cyware/ssi-sdk v0.0.0-20231229160719-d8094b2cfcfe // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.2.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
