@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"strings"
 
-	sdkcrypto "github.com/cyware/ssi-sdk/crypto/jwx"
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/btcsuite/btcd/btcec/v2/ecdsa"
+	sdkcrypto "github.com/cyware/ssi-sdk/crypto/jwx"
 	"github.com/decred/dcrd/dcrec/secp256k1/v4"
 	"github.com/goccy/go-json"
 	"github.com/gowebpki/jcs"

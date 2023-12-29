@@ -3,8 +3,8 @@ package jwx
 import (
 	"testing"
 
-	"github.com/cyware/ssi-sdk/crypto"
 	"github.com/cloudflare/circl/sign/dilithium"
+	"github.com/cyware/ssi-sdk/crypto"
 	"github.com/lestrrat-go/jwx/v2/jwa"
 	"github.com/lestrrat-go/jwx/v2/jws"
 	"github.com/stretchr/testify/assert"
